@@ -6,7 +6,7 @@ module News
     def initialize(articles_data)
       @articles = articles_data
     end
-    
+
     def author
       @articles['author']
     end
@@ -14,22 +14,22 @@ module News
     def title
       @articles['title']
     end
-    
+
     def description
       @articles['description']
-    end 
+    end
 
     def url
       @articles['url']
     end
-   
+
     def urlToImage
-      @articles[urlToImage]
+      @articles['urlToImage']
     end
 
     def publishedAt
-      @articles[publishedAt]
+      @articles['publishedAt']
     end
-
+    
   end
 end
