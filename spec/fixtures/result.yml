@@ -1,0 +1,65 @@
+---
+status: ok
+source: techradar
+sortBy: latest
+articles:
+- author: Christian de Looper
+  title: 'Best MP3 Players: TechRadar''s guide to the best portable music players'
+  description: These are the best devices to take your music on the go
+  url: http://www.techradar.com/news/best-mp3-players-techradars-guide-to-the-best-portable-music-players
+  urlToImage: http://cdn.mos.cms.futurecdn.net/jMUNeXZNXPkwVtG972nWcU-1200-80.jpg
+  publishedAt: '2017-10-13T21:55:50.285Z'
+- author: Andrew Williams
+  title: 'Best universal remotes: the ultimate beginner’s guide'
+  description: Welcome to Universal Remotes 101
+  url: http://www.techradar.com/news/universal-remotes-101-the-ultimate-beginners-guide
+  urlToImage: http://cdn.mos.cms.futurecdn.net/38K4yE6iE69my9p7xNxQz-1200-80.jpg
+  publishedAt: '2017-10-13T21:55:00.285Z'
+- author: Matt Swider
+  title: 'The best Amazon Cyber Monday deals 2017: Get the lowest prices in the US'
+  description: Ramping up on Amazon Cyber Monday deals in the US
+  url: http://www.techradar.com/news/amazon-cyber-monday-2017-in-usa
+  urlToImage: http://cdn.mos.cms.futurecdn.net/XEnzX2KxT2G43ifEzkPkfH-1200-80.jpg
+  publishedAt: '2017-10-13T21:50:08.285Z'
+- author: Andrew London
+  title: 'Best travel apps 2017: make traveling a joy'
+  description: The best apps for planning your holiday or business trip
+  url: http://www.techradar.com/news/best-travel-apps-2017-make-travelling-a-joy
+  urlToImage: http://cdn.mos.cms.futurecdn.net/Vsi5Tgh2eRGqyoEgkZ2pnV-1200-80.jpg
+  publishedAt: '2017-10-06T20:55:27.278Z'
+- author: Matt Swider
+  title: The best Amazon Black Friday deals 2017
+  description: Amazon sales always include TV deals, cheap laptops and video games
+  url: http://www.techradar.com/news/amazon-black-friday-deals-2017
+  urlToImage: http://cdn.mos.cms.futurecdn.net/vyd95MJzW37hWrQp8dobnd-1200-80.jpg
+  publishedAt: '2017-10-13T21:28:19.285Z'
+- author: Leif Johnson
+  title: Steve Wozniak launches online university aimed at making tech ed more affordable
+  description: There's an app for that
+  url: http://www.techradar.com/news/steve-wozniak-launches-online-university-aimed-at-making-tech-ed-more-affordable
+  urlToImage: http://cdn.mos.cms.futurecdn.net/KBsgxnr7x3VDrGspdCwaSX-1200-80.jpg
+  publishedAt: '2017-10-13T21:03:10.285Z'
+- author: Dan Griliopoulos
+  title: The 30 best indie games on PC and consoles
+  description: Some of the best games are made on smaller budgets
+  url: http://www.techradar.com/news/gaming/10-best-indie-games-top-indie-games-on-pc-and-consoles-1300583
+  urlToImage: http://cdn.mos.cms.futurecdn.net/kaETGLRV6NEjPFeFS3sy9J-1200-80.jpg
+  publishedAt: '2017-10-13T20:34:00.285Z'
+- author: Kane Fulton
+  title: '40 best PC games: the must-play titles you can''t afford to miss'
+  description: Battlestations at the ready for the best PC games out now
+  url: http://www.techradar.com/news/gaming/10-best-pc-games-the-must-play-titles-you-can-t-afford-to-miss-1292327
+  urlToImage: http://cdn.mos.cms.futurecdn.net/xkRwHYuy4ygLUhf6KtCPH5-1200-80.jpg
+  publishedAt: '2017-08-29T14:49:00.24Z'
+- author: Gabe Carey
+  title: 'AMD vs Intel: which chipmaker does processors better?'
+  description: Pitting power against price
+  url: http://www.techradar.com/news/computing-components/processors/intel-vs-amd-which-processor-is-best-936589
+  urlToImage: http://cdn.mos.cms.futurecdn.net/9e71ac3729282f895373e64bf5f733a7-1200-80.jpg
+  publishedAt: '2017-10-13T19:45:00.285Z'
+- author: Leif Johnson
+  title: Now you can order food without ever leaving Facebook
+  description: Feed yourself through your News Feed
+  url: http://www.techradar.com/news/now-you-can-order-food-without-ever-leaving-facebook
+  urlToImage: http://cdn.mos.cms.futurecdn.net/QUUeFaQ5ap8RVTfuMJF733-1200-80.jpg
+  publishedAt: '2017-10-13T19:16:41.285Z'
