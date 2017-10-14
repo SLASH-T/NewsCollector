@@ -7,8 +7,8 @@ config = YAML.safe_load(File.read('config/secrets.yml'))
 news_reponse = {}
 news_result = {}
 
-def news_api_path(source = 'techradar', sort_by = 'top')
-  'https://newsapi.org/v1/articles?source=' + source + '&sort_by=' + sort_by
+def news_api_path(source = 'techradar', sortBy = 'top')
+  'https://newsapi.org/v1/articles?source=' + source + '&sortBy=' + sortBy
 end
 
 def call_news_url(config, url) # use key and dump raw data
