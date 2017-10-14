@@ -10,7 +10,7 @@ describe 'Tests if the News API is correctly called' do
   SORTBY = 'latest'.freeze
   CONFIG = YAML.safe_load(File.read('config/secrets.yml'))
   NEWS_TOKEN = CONFIG['news_token']
-  CORRECT = YAML.safe_load(File.read('spec/fixtures/gh_results.yml'))
+  CORRECT = YAML.safe_load(File.read('spec/fixtures/result.yml'))
 
   before do
     @news = News::NewsAPI.new(NEWS_TOKEN).news_use(NEWS_SOURCE, SORTBY)
