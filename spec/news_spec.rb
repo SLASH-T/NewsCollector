@@ -3,7 +3,7 @@
 require 'minitest/autorun'
 require 'minitest/rg'
 require 'yaml'
-require_relative '../lib/'
+require_relative '../lib/news_api.rb'
 
 describe 'Tests if the News API is correctly called' do
   NEWS_SOURCE = 'techradar'.freeze
