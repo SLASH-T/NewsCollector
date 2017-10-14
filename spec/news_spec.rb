@@ -13,7 +13,7 @@ describe 'Tests if the News API is correctly called' do
   CORRECT = YAML.safe_load(File.read('spec/fixtures/gh_results.yml'))
 
   before do
-    @news = News::NewsAPI.new(NEWS_TOKEN).news_api_path(NEWS_SOURCE, SORTBY)
+    @news = News::NewsAPI.new(NEWS_TOKEN).news_use(NEWS_SOURCE, SORTBY)
   end
 
   it 'Checking Status' do
